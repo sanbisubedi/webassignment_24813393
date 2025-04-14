@@ -1,0 +1,6 @@
+homepageurl: v.je
+admin login: sa@gmail.com
+password: 12345
+
+nonadminuser: s@gmail.com
+nonadminuser: 12345
